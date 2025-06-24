@@ -1,0 +1,17 @@
+</style>
+</head>
+<body>
+  <div class="logo">
+    <div class="symbol">
+      <!-- SVG baseado no desenho da figura humana com folhas -->
+      <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="8" r="5"/>
+        <path d="M32 14 C26 24, 20 32, 12 36 C20 24, 26 18, 32 18 C38 18, 44 24, 52 36 C44 32, 38 24, 32 14 Z"/>
+        <path d="M20 36 C14 38, 10 44, 8 52 C14 48, 18 42, 20 36 Z"/>
+        <path d="M44 36 C50 38, 54 44, 56 52 C50 48, 46 42, 44 36 Z"/>
+      </svg>
+    </div>
+    <div class="text">
+      <span class="bem">bem</span><span class="estar">estar</span>
+    </div>
+  </div>
